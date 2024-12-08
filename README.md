@@ -1,45 +1,18 @@
-# 🚀 Nama Proyek Saya
+### 👨‍💻 About Me
 
-Halo, saya **[Nama Anda]**, seorang pengembang yang tertarik dengan dunia teknologi dan pemrograman, terutama di bidang **Linux** dan **open-source**. Selamat datang di profil saya!
+<img align="right" height="175" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 
-## 📋 Tentang Saya
+### 📈 My Contribution Graph
+![Snake Contribution Animation](https://raw.githubusercontent.com/adeeteya/adeeteya/output/snake.svg)
 
-- 🔭 Saat ini saya sedang mengerjakan: Pengembangan perangkat lunak di **Linux**, dengan fokus pada **Python** dan **C++**.
-- 🌱 Saya belajar lebih banyak tentang: Manajemen sistem Linux, otomatisasi, dan pengembangan perangkat lunak open-source.
-- 👯 Saya sedang mencari kolaborasi dalam proyek **open-source**.
-- 🤔 Saya tertarik untuk belajar lebih banyak tentang **Docker**, **Kubernetes**, dan **DevOps**.
-- 💬 Jangan ragu untuk menghubungi saya melalui [LinkedIn](https://www.linkedin.com/in/username) atau [Email](mailto:email@example.com).
-- 📫 Bagaimana cara menghubungi saya: [email@example.com].
+### 📊 My Statistics
 
-## 💻 Teknologi yang Saya Gunakan
+- **🌍 Visitors**: ![Profile Views](https://komarev.com/ghpvc/?username=your-github-username)
+- **👀 Repositories**: [Total Repos](https://github.com/your-github-username?tab=repositories)
+- **📆 Contributions**: ![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username)
 
-- **Bahasa Pemrograman**: Python, Bash, C, C++, JavaScript
-- **Sistem Operasi**: Linux (Debian, Ubuntu, Arch)
-- **Alat**: Git, Docker, Jenkins, Kubernetes
-- **Text Editor**: Vim, VSCode, Emacs
-- **Frameworks**: Flask, Django, Node.js
-- **Library**: TensorFlow, OpenCV
+### 📬 Contact Me
 
-## 🔧 Proyek-proyek Saya
-
-### [Proyek 1: Nama Proyek](https://github.com/username/proyek-1)
-Deskripsi singkat tentang proyek ini.
-
-### [Proyek 2: Nama Proyek](https://github.com/username/proyek-2)
-Deskripsi singkat tentang proyek ini.
-
-## 📈 Statistik
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=dark)
-
-## 🎯 Tujuan Saya
-
-- Mengembangkan proyek perangkat lunak yang bermanfaat bagi komunitas open-source.
-- Belajar dan menguasai teknologi terbaru dalam dunia **DevOps** dan **cloud computing**.
-- Membantu organisasi atau individu dalam mengoptimalkan penggunaan sistem Linux.
-
-## 🔗 Kontak
-
-- 🌐 Website pribadi: [website.com](https://website.com)
-- 📧 Email: email@example.com
-- 💬 Hubungi saya di LinkedIn: [LinkedIn](https://www.linkedin.com/in/username)
+- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **Twitter**: [@your-twitter-handle](https://twitter.com/your-twitter-handle)
+- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
